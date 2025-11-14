@@ -2,9 +2,9 @@
 
 ## Basic information
 
-Topic: ...
-Teacher: ...
-Date and time: ...
-Place: Salle des Actes, 45 rue d'Ulm
+- Topic: Speech 1: acoustic models for ASR
+- Teacher: Maxime Poli
+- Date and time: 12/02/2026 2pm-5pm
+- Place: Salle des Actes, 45 rue d'Ulm
 
 ## Reading materials
