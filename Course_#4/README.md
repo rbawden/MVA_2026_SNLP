@@ -2,9 +2,9 @@
 
 ## Basic information
 
-Topic: ...
-Teacher: ...
-Date and time: ...
-Place: Salle des Actes, 45 rue d'Ulm
+- Topic: Machine Translation
+- Teacher: Rachel Bawden
+- Date and time: 05/02/2026 2pm-5pm
+- Place: Salle des Actes, 45 rue d'Ulm
 
 ## Reading materials
