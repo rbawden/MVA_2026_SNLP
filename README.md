@@ -57,23 +57,24 @@ Evaluation consists of 2 parts:
 
 ### Schedule
 
-TBD
+- 15/01/2026: #1: Introduction and Language modelling part 1 (Benoît Sagot)
+- 22/01/2026: #2: Language modelling part 2 (Benoît Sagot)
+- 29/01/2026: #3: Sentiment Analysis (Chloé Clavel)
+- 05/02/2026: #4: Machine Translation (Rachel Bawden)
+- 12/02/2026: #5: Speech 1: acoustic models for ASR
+- 26/02/2026: #6: Speech 2: language models for ASR
+- 05/03/2026: #7: Speech 3: speech foundation models
+- 12/03/2026: #8 Dialogue (Chloé Clavel)
+- 19/03/2026: #9 Guest lecture: To be confirmed
 
-- Deadline for sending the 4-page project report FOR SENDING the 4-PAGE PROJECT REPORT: TBD (late submissions will be penalised by 1 point/20 every day)
-- Oral presentation (remote): 10-minute presentation + 5 minutes of questions. TBD
+
+- Deadline for sending the 4-page project report (late submissions will be penalised by 1 point/20 every day): TBD
+- Oral presentation (remote): 10-minute presentation + 5 minutes of questions: TBD
 
 
 ### Project topics
 
-- Project 1:  NLP-Lexical Semantics 
-- Project 2: Hate speech detection 
-- Project 3: Translation 
-- Project 4: Text-Image Multimodal models
-- Project 5: Speech recognition in a low resource language
-- Project 6: Speech language models
-- Project 7: language emergence
-
-Details [HERE](https://github.com/chloedaphne/MVA_2025_SNLP/tree/main/Project_topics) 
+TBD
 
 ### Q&A
 
