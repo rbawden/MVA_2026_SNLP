@@ -2,9 +2,9 @@
 
 ## Basic information
 
-Topic: ...
-Teacher: ...
-Date and time: ...
-Place: Salle des Actes, 45 rue d'Ulm
+- Topic: Invited lecture (TBD)
+- Teacher: TBD
+- Date and time: 19/03/2026 2pm-5pm
+- Place: Salle des Actes, 45 rue d'Ulm
 
 ## Reading materials
